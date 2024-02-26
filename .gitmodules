@@ -1,3 +1,6 @@
 [submodule "ParsingData"]
 	path = ParsingData
 	url = https://github.com/Amatikay/Parsing-data-from-TSU.Employees.git
+[submodule "Slides"]
+	path = Slides
+	url = git@github.com:Amatikay/TermPaperSlides.git
